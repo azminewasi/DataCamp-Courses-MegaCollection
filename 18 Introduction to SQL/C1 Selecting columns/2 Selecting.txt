@@ -1,0 +1,81 @@
+SELECT DISTINCT
+Often your results will include many duplicate values. If you want to select all the unique values from a column, you can use the DISTINCT keyword.
+
+This might be useful if, for example, you're interested in knowing which languages are represented in the films table:
+
+SELECT DISTINCT language
+FROM films;
+Remember, you can check out the data in the tables by clicking on the table name!
+
+Instructions 3/3
+30 XP
+Get all the unique countries represented in the films table.
+
+Get all the different film certifications from the films table.
+
+Get the different types of film roles from the roles table.
+-----------------------------------------------------------------------------------
+
+Learning to COUNT
+What if you want to count the number of employees in your employees table? The COUNT() function lets you do this by returning the number of rows in one or more columns.
+
+For example, this code gives the number of rows in the people table:
+
+SELECT COUNT(*)
+FROM people;
+How many records are contained in the reviews table?
+Instructions
+50 XP
+Possible Answers
+
+9,468
+
+8,397
+
+4,968
+
+9,837
+
+9,864
+
+
+>>>>>>>>>>>>>>
+SELECT COUNT(*)
+FROM reviews
+
+
+-----------------------------------------------------------------------------------
+
+
+Practice with COUNT
+As you've seen, COUNT(*) tells you how many rows are in a table. However, if you want to count the number of non-missing values in a particular column, you can call COUNT() on just that column.
+
+For example, to count the number of birth dates present in the people table:
+
+SELECT COUNT(birthdate)
+FROM people;
+It's also common to combine COUNT() with DISTINCT to count the number of distinct values in a column.
+
+For example, this query counts the number of distinct birth dates contained in the people table:
+
+SELECT COUNT(DISTINCT birthdate)
+FROM people;
+Let's get some practice with COUNT()!
+
+Instructions 5/5
+20 XP
+Count the number of rows in the people table.
+
+Count the number of (non-missing) birth dates in the people table.
+
+Count the number of unique birth dates in the people table.
+
+Count the number of unique languages in the films table.
+
+Count the number of unique countries in the films table.
+
+-----------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------
