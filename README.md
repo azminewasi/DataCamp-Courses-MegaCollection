@@ -17,11 +17,15 @@ Some of these solutions are made to actually run in your own machine, but many o
   - Score : 177
   - <p style="color:lightgreen;">Percentile : <b>Better than 99%</b></p>
 
-- [Machine Learning Fundamentals in Python](https://assessment-v2.datacamp.com/db3db194-0ace-4f4a-a5e7-14e576ddd5e8/results)
+- Machine Learning Fundamentals in Python
   - APR 28, 2021
   - Score : 158
   - <p style="color:lightgreen;">Percentile : <b>Better than 97%</b></p>
-  
+
+- Python Programming
+  - APR 23, 2021
+  - Score : 160
+  - <p style="color:lightgreen;">Percentile : <b>Better than 98%</b></p>
 ---
 
 ## **Career Tracks Completed :**
