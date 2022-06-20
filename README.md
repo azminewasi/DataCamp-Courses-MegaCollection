@@ -52,3 +52,5 @@ Some of these solutions are made to actually run in your own machine, but many o
 - [Parallel Programming with Dask in Python](https://www.datacamp.com/statement-of-accomplishment/course/941064fd8afef749905a92f1c52b2c86a48ad32e)
 - [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/e10d6bd7021772c3e7d68438f82db0ff2acd25c5)
 - [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/25bbcc98a6236c0f90d92f4f655687e10008751b)
+- [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/9cd88b5d028a31d766e0d69f9cd8a1d25b214d62)
+- [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
