@@ -57,8 +57,4 @@ Some of these solutions are made to actually run in your own machine, but many o
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/9cd88b5d028a31d766e0d69f9cd8a1d25b214d62)
 - [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
 - [Data Visualization for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/955286f584b149168261d44a17a73004cee8c309)
-<<<<<<< HEAD
 - [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
-=======
-- [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
->>>>>>> c68f538a11bc2ca25cecb5d0f0ecb61db33348a2
