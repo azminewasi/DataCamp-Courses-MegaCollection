@@ -13,15 +13,11 @@ Some of these solutions are made to actually run in your own machine, but many o
 ## **DataCamp Signal™ Assessments Results :** 
 
 - [Understanding and Interpreting Data](https://assessment-v2.datacamp.com/fc2f1282-3cca-4647-ba91-06b42656c14d/results?returnUrl=)
-  - JUN 18, 2022
-  - Score : 177
-  - <p style="color:lightgreen;">Percentile : <b>Better than 99%</b></p>
+  - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
 
 - [Machine Learning Fundamentals in Python](https://assessment-v2.datacamp.com/db3db194-0ace-4f4a-a5e7-14e576ddd5e8/results)
-  - JUN 20, 2022
-  - Score : 135
-  - <p style="color:lightgreen;">Percentile : <b>Better than 87%</b></p>
-  
+  - APR 28, 2022 | Score : 158 |  Percentile : Better than 98%
+  - JUN 20, 2022 | Score : 135 |  Percentile : Better than 87%
 ---
 
 ## **Career Tracks Completed :**
@@ -60,3 +56,9 @@ Some of these solutions are made to actually run in your own machine, but many o
 - [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/25bbcc98a6236c0f90d92f4f655687e10008751b)
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/9cd88b5d028a31d766e0d69f9cd8a1d25b214d62)
 - [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
+- [Data Visualization for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/955286f584b149168261d44a17a73004cee8c309)
+<<<<<<< HEAD
+- [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
+=======
+- [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
+>>>>>>> c68f538a11bc2ca25cecb5d0f0ecb61db33348a2
