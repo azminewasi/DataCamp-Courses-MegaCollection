@@ -12,12 +12,13 @@ Some of these solutions are made to actually run in your own machine, but many o
 ---
 ## **DataCamp Signal™ Assessments Results :** 
 
-- [Understanding and Interpreting Data](https://assessment-v2.datacamp.com/fc2f1282-3cca-4647-ba91-06b42656c14d/results?returnUrl=)
+- Understanding and Interpreting Data
   - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
 
-- [Machine Learning Fundamentals in Python](https://assessment-v2.datacamp.com/db3db194-0ace-4f4a-a5e7-14e576ddd5e8/results)
-  - APR 28, 2022 | Score : 158 |  Percentile : Better than 98%
+- Machine Learning Fundamentals in Python
+  - APR 28, 2021 | Score : 158 |  Percentile : Better than 98%
   - JUN 20, 2022 | Score : 135 |  Percentile : Better than 87%
+
 ---
 
 ## **Career Tracks Completed :**
@@ -32,9 +33,10 @@ Some of these solutions are made to actually run in your own machine, but many o
   - APR 22, 2021
 - [Python Programming Track](https://www.datacamp.com/statement-of-accomplishment/track/7e028f33e21ebda316e56a9128c0976c772da6c7)
   - APR 27, 2021
-- Machine Learning Fundamentals with Python Track
-  - APR 27, 2021
-
+- [Machine Learning Fundamentals with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/5b7ae1bb6614f496b96a6f238cbd3fb46d6b9ccc)
+  - JUN 20, 2022
+- [Data Literacy Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/2b705f666a8aab86b728cb9ac83a9e77c7e89a51)
+  - JUN 23, 2022
 
 ---
 ## **Courses Completed :**
@@ -59,3 +61,5 @@ Some of these solutions are made to actually run in your own machine, but many o
 - [Data Visualization for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/955286f584b149168261d44a17a73004cee8c309)
 - [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
 - [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/statement-of-accomplishment/course/e768f6175b7b0008c1ff16bf599d84577b2ef66c)
+- [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/fee934fd44c69f71abbecb420848244829d57e8e)
+- [Cloud Computing for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/7e0bf68cbfa629ce2fcdabd5f4179bd5ce925b21)
