@@ -58,3 +58,4 @@ Some of these solutions are made to actually run in your own machine, but many o
 - [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
 - [Data Visualization for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/955286f584b149168261d44a17a73004cee8c309)
 - [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
+- [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/statement-of-accomplishment/course/e768f6175b7b0008c1ff16bf599d84577b2ef66c)
