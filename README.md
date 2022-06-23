@@ -14,7 +14,6 @@ Some of these solutions are made to actually run in your own machine, but many o
 
 - Understanding and Interpreting Data
   - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
-
 - Machine Learning Fundamentals in Python
   - APR 28, 2021 | Score : 158 |  Percentile : Better than 98%
   - JUN 20, 2022 | Score : 135 |  Percentile : Better than 87%
@@ -23,8 +22,9 @@ Some of these solutions are made to actually run in your own machine, but many o
 
 ## **Career Tracks Completed :**
 
-- Python Programmer Track
+- [Python Programmer Track](https://www.datacamp.com/statement-of-accomplishment/track/53516897e8494fac5726b5a95e772ac9dca2f0cc)
   - APR 30, 2021
+  - JUN 23, 2022 - *NEW VERSION*
 
 ---
 ## **Skill Tracks Completed :**
@@ -63,3 +63,5 @@ Some of these solutions are made to actually run in your own machine, but many o
 - [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/statement-of-accomplishment/course/e768f6175b7b0008c1ff16bf599d84577b2ef66c)
 - [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/fee934fd44c69f71abbecb420848244829d57e8e)
 - [Cloud Computing for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/7e0bf68cbfa629ce2fcdabd5f4179bd5ce925b21)
+- [Developing Python Packages](https://www.datacamp.com/statement-of-accomplishment/course/0affb9673ea44b81fd977bb97af66dea6cd1d42e)
+- [Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/0137f944f68d33ad96f11b81a2217a504ab62c17)
