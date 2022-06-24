@@ -1,11 +1,11 @@
 # DataCamp
-## Azmine Toushik Wasi - View Profile
+## Azmine Toushik Wasi
 
 ---
 
 DataCamp data-science, machine learning and other courses I have completed.
 
-Some of these solutions are made to actually run in your own machine, but many of them will not run because t DataCamp preloaded some data in the exercises, and I don't have them.
+Some of these solutions are made to actually run in your own machine, but many of them will not run because DataCamp preloaded some data and fuctions in the exercises, and I don't have them here.
 
 
 
@@ -41,27 +41,34 @@ Some of these solutions are made to actually run in your own machine, but many o
 ---
 ## **Courses Completed :**
 
-- [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/3e892cc08f2285de0c25c5d206d8e7ab09ac8a3c)
-- [Data Manipulation with pandas](https://www.datacamp.com/statement-of-accomplishment/course/9e6c773097a8fb3332cbabac3e3331ded615717d)
-- [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/b71cf0f85700d83e968d015aca683eabc1c7f413)
-- [Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/79d18736c0afe35ffb0261ea95f9061236845b54)
-- [Web Scraping in Python](https://www.datacamp.com/statement-of-accomplishment/course/cbaf2b9852dcff40cf16cc2e610dd9b53807dacf)
-- [Working with Dates and Times in Python](https://www.datacamp.com/statement-of-accomplishment/course/74869031d80bf8c2ff6f61dd5c4bf430d8dae9b1)
-- [Introduction to Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/c4b8be709c1b2e25c228bbd8fb09219ae4b569f7)
-- [Linear Classifiers in Python](https://www.datacamp.com/statement-of-accomplishment/course/8d181320d971b691eb5884459044039031dc2519)
-- [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/7b77700cf2c7fca758ca275e8f8dd3cb494d02c0)
-- [Case Study - School Budgeting with ML](https://www.datacamp.com/statement-of-accomplishment/course/905282c9911106ffb20c5bd4dbe25abf35231e9c)
-- [Writing Efficient Code with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94b53695f17da3e11a87d629d7ddc06e701ea5f1)
-- [Regular Expressions in Python](https://www.datacamp.com/statement-of-accomplishment/course/90fca77f0ae409c45a0526f3a3bf873545b4d6e2)
-- [Parallel Programming with Dask in Python](https://www.datacamp.com/statement-of-accomplishment/course/941064fd8afef749905a92f1c52b2c86a48ad32e)
-- [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/e10d6bd7021772c3e7d68438f82db0ff2acd25c5)
-- [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/25bbcc98a6236c0f90d92f4f655687e10008751b)
-- [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/9cd88b5d028a31d766e0d69f9cd8a1d25b214d62)
-- [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
-- [Data Visualization for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/955286f584b149168261d44a17a73004cee8c309)
-- [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
-- [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/statement-of-accomplishment/course/e768f6175b7b0008c1ff16bf599d84577b2ef66c)
-- [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/fee934fd44c69f71abbecb420848244829d57e8e)
-- [Cloud Computing for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/7e0bf68cbfa629ce2fcdabd5f4179bd5ce925b21)
-- [Developing Python Packages](https://www.datacamp.com/statement-of-accomplishment/course/0affb9673ea44b81fd977bb97af66dea6cd1d42e)
-- [Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/0137f944f68d33ad96f11b81a2217a504ab62c17)
+1. [Conda Essentials](https://www.datacamp.com/statement-of-accomplishment/course/3e892cc08f2285de0c25c5d206d8e7ab09ac8a3c)
+2. [Data Manipulation with pandas](https://www.datacamp.com/statement-of-accomplishment/course/9e6c773097a8fb3332cbabac3e3331ded615717d)
+3. [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/b71cf0f85700d83e968d015aca683eabc1c7f413)
+4. [Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/79d18736c0afe35ffb0261ea95f9061236845b54)
+5. [Web Scraping in Python](https://www.datacamp.com/statement-of-accomplishment/course/cbaf2b9852dcff40cf16cc2e610dd9b53807dacf)
+6. [Working with Dates and Times in Python](https://www.datacamp.com/statement-of-accomplishment/course/74869031d80bf8c2ff6f61dd5c4bf430d8dae9b1)
+7. [Introduction to Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/c4b8be709c1b2e25c228bbd8fb09219ae4b569f7)
+8. [Linear Classifiers in Python](https://www.datacamp.com/statement-of-accomplishment/course/8d181320d971b691eb5884459044039031dc2519)
+9. [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/9cd88b5d028a31d766e0d69f9cd8a1d25b214d62)
+10. [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/7b77700cf2c7fca758ca275e8f8dd3cb494d02c0)
+11. [Case Study - School Budgeting with ML](https://www.datacamp.com/statement-of-accomplishment/course/905282c9911106ffb20c5bd4dbe25abf35231e9c)
+12. Python Data Science Toolbox (Part 1)
+13. Python Data Science Toolbox (Part 2)
+14. [Writing Efficient Code with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94b53695f17da3e11a87d629d7ddc06e701ea5f1)
+15. [Regular Expressions in Python](https://www.datacamp.com/statement-of-accomplishment/course/90fca77f0ae409c45a0526f3a3bf873545b4d6e2)
+16. [Parallel Programming with Dask in Python](https://www.datacamp.com/statement-of-accomplishment/course/941064fd8afef749905a92f1c52b2c86a48ad32e)
+17. Introduction to R
+18. [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5c3c7a0f26c7bfaded1a475b023c65a3e994d706)
+19. [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/e10d6bd7021772c3e7d68438f82db0ff2acd25c5)
+20. [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/25bbcc98a6236c0f90d92f4f655687e10008751b)
+21. [Machine Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/41ebfaab61348da03cce1c18ed79c1e4b86c48db)
+22. [Developing Python Packages](https://www.datacamp.com/statement-of-accomplishment/course/0affb9673ea44b81fd977bb97af66dea6cd1d42e)
+23. [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
+24. [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/98695efb2210962b67abb1d17caea317c6b31a42)
+25. [Data Visualization for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/955286f584b149168261d44a17a73004cee8c309)
+26. [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/statement-of-accomplishment/course/e768f6175b7b0008c1ff16bf599d84577b2ef66c)
+27. [Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/0137f944f68d33ad96f11b81a2217a504ab62c17)
+28. [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/fee934fd44c69f71abbecb420848244829d57e8e)
+29. [Cloud Computing for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/7e0bf68cbfa629ce2fcdabd5f4179bd5ce925b21)
+30. [Hyperparameter Tuning in Python](https://www.datacamp.com/statement-of-accomplishment/course/bd04de3859f411c6ee10e1adaeafd8756dbe90bc)
+31. [Dimensionality Reduction in Python]()
