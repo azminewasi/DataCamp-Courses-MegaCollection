@@ -72,4 +72,5 @@ Some of these solutions are made to actually run in your own machine, but many o
 29. [Cloud Computing for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/7e0bf68cbfa629ce2fcdabd5f4179bd5ce925b21)
 30. [Hyperparameter Tuning in Python](https://www.datacamp.com/statement-of-accomplishment/course/bd04de3859f411c6ee10e1adaeafd8756dbe90bc)
 31. [Dimensionality Reduction in Python](https://www.datacamp.com/statement-of-accomplishment/course/7729378907bed8a4b4ffec4b058c5b3ea5d526e5)
-33. [Preprocessing for Machine Learning in Python]()
+32. [Introduction to Natural Language Processing in Python]()
+33. [Preprocessing for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/c53dbfa244066eb22e44c9c431f7be957dd264c2)
