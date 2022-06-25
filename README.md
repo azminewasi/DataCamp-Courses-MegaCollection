@@ -14,6 +14,8 @@ Some of these solutions are made to actually run in your own machine, but many o
 
 - Understanding and Interpreting Data
   - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
+- Python Programming
+  - JUN 26, 2022 | Score : 145 | Percentile : Better than 93%
 - Machine Learning Fundamentals in Python
   - APR 28, 2021 | Score : 158 |  Percentile : Better than 98%
   - JUN 20, 2022 | Score : 135 |  Percentile : Better than 87%
