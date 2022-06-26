@@ -1,11 +1,15 @@
-# DataCamp
-## Azmine Toushik Wasi
+# **DataCamp**
+## **Azmine Toushik Wasi**
 
 ---
 
-DataCamp data-science, machine learning and other courses I have completed.
+### Exercises and Certificates of all the python, R, SQL, data-science, machine learning and other courses I have completed in DataCamp.
 
-Some of these solutions are made to actually run in your own machine, but many of them will not run because DataCamp preloaded some data and fuctions in the exercises, and I don't have them here.
+---
+
+**For most of the courses, exercise and solutions are added.** But, I won't be adding them from 3oth course, to focus more on the concepts and knowledge. *If I find **something new or exiting, I will add those.***
+
+*Some of these solutions are made to actually run in your own machine, but many of them will not run because DataCamp preloaded some data and fuctions in the exercises, and I don't have them here.*
 
 
 
@@ -54,15 +58,12 @@ Some of these solutions are made to actually run in your own machine, but many o
 9. [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/9cd88b5d028a31d766e0d69f9cd8a1d25b214d62)
 10. [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/7b77700cf2c7fca758ca275e8f8dd3cb494d02c0)
 11. [Case Study - School Budgeting with ML](https://www.datacamp.com/statement-of-accomplishment/course/905282c9911106ffb20c5bd4dbe25abf35231e9c)
-12. Python Data Science Toolbox (Part 1)
-13. Python Data Science Toolbox (Part 2)
+12. [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5c3c7a0f26c7bfaded1a475b023c65a3e994d706)
+13. [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/e10d6bd7021772c3e7d68438f82db0ff2acd25c5)
 14. [Writing Efficient Code with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94b53695f17da3e11a87d629d7ddc06e701ea5f1)
 15. [Regular Expressions in Python](https://www.datacamp.com/statement-of-accomplishment/course/90fca77f0ae409c45a0526f3a3bf873545b4d6e2)
 16. [Parallel Programming with Dask in Python](https://www.datacamp.com/statement-of-accomplishment/course/941064fd8afef749905a92f1c52b2c86a48ad32e)
-17. Introduction to R
-18. [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/5c3c7a0f26c7bfaded1a475b023c65a3e994d706)
-19. [Data Science for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/e10d6bd7021772c3e7d68438f82db0ff2acd25c5)
-20. [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/25bbcc98a6236c0f90d92f4f655687e10008751b)
+17. [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/25bbcc98a6236c0f90d92f4f655687e10008751b)
 21. [Machine Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/41ebfaab61348da03cce1c18ed79c1e4b86c48db)
 22. [Developing Python Packages](https://www.datacamp.com/statement-of-accomplishment/course/0affb9673ea44b81fd977bb97af66dea6cd1d42e)
 23. [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
@@ -73,6 +74,6 @@ Some of these solutions are made to actually run in your own machine, but many o
 28. [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/fee934fd44c69f71abbecb420848244829d57e8e)
 29. [Cloud Computing for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/7e0bf68cbfa629ce2fcdabd5f4179bd5ce925b21)
 30. [Hyperparameter Tuning in Python](https://www.datacamp.com/statement-of-accomplishment/course/bd04de3859f411c6ee10e1adaeafd8756dbe90bc)
-31. [Dimensionality Reduction in Python](https://www.datacamp.com/statement-of-accomplishment/course/7729378907bed8a4b4ffec4b058c5b3ea5d526e5)
-32. [Preprocessing for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/c53dbfa244066eb22e44c9c431f7be957dd264c2)
-33. [Object-Oriented Programming in Python](https://www.datacamp.com/statement-of-accomplishment/course/f14c05518f03587519a6f6147192b8982c5533bc)
+18. [Dimensionality Reduction in Python](https://www.datacamp.com/statement-of-accomplishment/course/7729378907bed8a4b4ffec4b058c5b3ea5d526e5)
+19. [Preprocessing for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/c53dbfa244066eb22e44c9c431f7be957dd264c2)
+20. [Object-Oriented Programming in Python](https://www.datacamp.com/statement-of-accomplishment/course/f14c05518f03587519a6f6147192b8982c5533bc)
