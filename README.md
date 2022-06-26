@@ -43,6 +43,8 @@
   - JUN 20, 2022
 - [Data Literacy Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/2b705f666a8aab86b728cb9ac83a9e77c7e89a51)
   - JUN 23, 2022
+- [Python Toolbox](https://www.datacamp.com/statement-of-accomplishment/track/d6d717306f276fd1718eb40a60e786b541c591ab)
+  - JUN 26, 2022
 
 ---
 ## **Courses Completed :**
@@ -64,6 +66,9 @@
 15. [Regular Expressions in Python](https://www.datacamp.com/statement-of-accomplishment/course/90fca77f0ae409c45a0526f3a3bf873545b4d6e2)
 16. [Parallel Programming with Dask in Python](https://www.datacamp.com/statement-of-accomplishment/course/941064fd8afef749905a92f1c52b2c86a48ad32e)
 17. [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/25bbcc98a6236c0f90d92f4f655687e10008751b)
+18. [Dimensionality Reduction in Python](https://www.datacamp.com/statement-of-accomplishment/course/7729378907bed8a4b4ffec4b058c5b3ea5d526e5)
+19. [Preprocessing for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/c53dbfa244066eb22e44c9c431f7be957dd264c2)
+20. [Object-Oriented Programming in Python](https://www.datacamp.com/statement-of-accomplishment/course/f14c05518f03587519a6f6147192b8982c5533bc)
 21. [Machine Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/41ebfaab61348da03cce1c18ed79c1e4b86c48db)
 22. [Developing Python Packages](https://www.datacamp.com/statement-of-accomplishment/course/0affb9673ea44b81fd977bb97af66dea6cd1d42e)
 23. [Machine Learning for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/d9538220f8c5a33d89d3f04b79c538538f7f5ed9)
@@ -74,6 +79,5 @@
 28. [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/fee934fd44c69f71abbecb420848244829d57e8e)
 29. [Cloud Computing for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/7e0bf68cbfa629ce2fcdabd5f4179bd5ce925b21)
 30. [Hyperparameter Tuning in Python](https://www.datacamp.com/statement-of-accomplishment/course/bd04de3859f411c6ee10e1adaeafd8756dbe90bc)
-18. [Dimensionality Reduction in Python](https://www.datacamp.com/statement-of-accomplishment/course/7729378907bed8a4b4ffec4b058c5b3ea5d526e5)
-19. [Preprocessing for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/c53dbfa244066eb22e44c9c431f7be957dd264c2)
-20. [Object-Oriented Programming in Python](https://www.datacamp.com/statement-of-accomplishment/course/f14c05518f03587519a6f6147192b8982c5533bc)
+31. [Feature Engineering for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/ca5988b07369cbb4becd462013fa761a0a18a8c2)
+32. [Dealing with Missing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/a980bc88d9636042fbb598b901a3073b6c60c787)
