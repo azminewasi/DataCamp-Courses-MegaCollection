@@ -81,3 +81,4 @@
 30. [Hyperparameter Tuning in Python](https://www.datacamp.com/statement-of-accomplishment/course/bd04de3859f411c6ee10e1adaeafd8756dbe90bc)
 31. [Feature Engineering for Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/ca5988b07369cbb4becd462013fa761a0a18a8c2)
 32. [Dealing with Missing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/a980bc88d9636042fbb598b901a3073b6c60c787)
+33. [Model Validation in Python](https://www.datacamp.com/statement-of-accomplishment/course/4554c4207624b58004a786ef4897fde1f5183060)
