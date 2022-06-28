@@ -83,3 +83,4 @@
 32. [Dealing with Missing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/a980bc88d9636042fbb598b901a3073b6c60c787)
 33. [Model Validation in Python](https://www.datacamp.com/statement-of-accomplishment/course/4554c4207624b58004a786ef4897fde1f5183060)
 34. [Data Science for Business](https://www.datacamp.com/statement-of-accomplishment/course/9d47f7ba5beb353751039d2ba35ffa6eee0c459a)
+35. [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/1e206c05ee521ba7c65d8a76e07804a21154c92e)
