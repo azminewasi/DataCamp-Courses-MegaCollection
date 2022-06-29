@@ -84,3 +84,5 @@
 33. [Model Validation in Python](https://www.datacamp.com/statement-of-accomplishment/course/4554c4207624b58004a786ef4897fde1f5183060)
 34. [Data Science for Business](https://www.datacamp.com/statement-of-accomplishment/course/9d47f7ba5beb353751039d2ba35ffa6eee0c459a)
 35. [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/1e206c05ee521ba7c65d8a76e07804a21154c92e)
+36. [Feature Engineering for NLP in Python](https://www.datacamp.com/statement-of-accomplishment/course/bb19176ab693aae8ccf81c5d0004c3792914319f)
+37. [Machine Learning for Time Series Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/5c70b8c0da88a833a4f1d01f947e04668791a6d7)
