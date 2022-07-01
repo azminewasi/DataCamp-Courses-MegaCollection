@@ -89,3 +89,4 @@
 38. [Manipulating Time Series Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/d6296f12786efe91fdd9d7b49df999e46b4fd238)
 39. [Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/dd977907f5e9c2c3c1795e1f4df49dd90deb4440)
 40. [Intermediate Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/e7b1d7bd84b64ab8ecf5bda55d2de749d26e2558)
+41. [Time Series Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/4e9b50f84404a86ef838a6ecba20f106894a22d7)
