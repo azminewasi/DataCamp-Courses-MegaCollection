@@ -1,5 +1,5 @@
 # **DataCamp**
-## **Azmine Toushik Wasi**
+### **Azmine Toushik Wasi**
 
 ---
 
@@ -96,3 +96,4 @@
 41. [Time Series Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/4e9b50f84404a86ef838a6ecba20f106894a22d7)
 42. [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/0e90b3c042ff91737677bbfa2c2978212d5fc954)
 43. [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/3ef459bfaf8e1931408d73a98ab034e97e18c373)
+44. [Visualizing Time Series Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/de35020d6adb8fd65f926af296e27daebf31f5bb)
