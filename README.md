@@ -45,6 +45,8 @@
   - JUN 23, 2022
 - [Python Toolbox](https://www.datacamp.com/statement-of-accomplishment/track/d6d717306f276fd1718eb40a60e786b541c591ab)
   - JUN 26, 2022
+- [Importing & Cleaning Data with Python](https://www.datacamp.com/statement-of-accomplishment/track/78e15544abc38caa0bd1fccfe945605985df2a22)
+  - JUL 02, 2022
 
 ---
 ## **Courses Completed :**
@@ -91,3 +93,4 @@
 40. [Intermediate Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/e7b1d7bd84b64ab8ecf5bda55d2de749d26e2558)
 41. [Time Series Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/4e9b50f84404a86ef838a6ecba20f106894a22d7)
 42. [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/0e90b3c042ff91737677bbfa2c2978212d5fc954)
+43. [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/3ef459bfaf8e1931408d73a98ab034e97e18c373)
