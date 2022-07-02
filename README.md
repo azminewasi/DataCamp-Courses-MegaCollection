@@ -11,9 +11,8 @@
 
 *Some of these solutions are made to actually run in your own machine, but many of them will not run because DataCamp preloaded some data and fuctions in the exercises, and I don't have them here.*
 
-
-
 ---
+
 ## **DataCamp Signal™ Assessments Results :** 
 
 - Understanding and Interpreting Data
@@ -23,6 +22,8 @@
 - Machine Learning Fundamentals in Python
   - APR 28, 2021 | Score : 158 |  Percentile : Better than 98%
   - JUN 20, 2022 | Score : 135 |  Percentile : Better than 87%
+- Importing and Cleaning with Python
+  - JUL 02, 2022 | Score : 150 |  Percentile : Better than 95%
 
 ---
 
@@ -33,6 +34,7 @@
   - JUN 23, 2022 - *NEW VERSION*
 
 ---
+
 ## **Skill Tracks Completed :**
 
 - [Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/97ed5b101facac09cf9981661c750941c3f8c335)
