@@ -100,3 +100,4 @@
 43. [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/3ef459bfaf8e1931408d73a98ab034e97e18c373)
 44. [Visualizing Time Series Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/de35020d6adb8fd65f926af296e27daebf31f5bb)
 45. [ARIMA Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/6cdf1055720ae4c840c3a54f1fc51a38fa974346)
+46. [Introduction to Statistics in Python](https://www.datacamp.com/statement-of-accomplishment/course/2daf680e828b438e4a7af281d0be3ed0e01ef057)
