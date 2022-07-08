@@ -103,3 +103,4 @@
 46. [Introduction to Statistics in Python](https://www.datacamp.com/statement-of-accomplishment/course/2daf680e828b438e4a7af281d0be3ed0e01ef057)
 47. [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/3d55d011ee71480f17967cd243dbb09d6be35aad)
 48. [Sampling in Python](https://www.datacamp.com/statement-of-accomplishment/course/50b23c32d8fd7a49cfd21970c30729e1dc1c075d)
+49. [Exploratory Data Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/c503219d7b93157b8723305abb5b71afd8674ff5)
