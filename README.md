@@ -108,3 +108,4 @@
 50. [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/d48548c20f74b687347eb28058d39b36c9b526c8)
 51. [Hypothesis Testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/028e4918e94d70ec464eb3ebe1455dfbd7a3a2e6)
 52. [Analyzing Police Activity with pandas](https://www.datacamp.com/statement-of-accomplishment/course/4a963b3ca2bc566c0691e756a36dd623b136e6f4)
+53. [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/d61e97126cf42b1a08ec3e6975f49dad686189bc)
