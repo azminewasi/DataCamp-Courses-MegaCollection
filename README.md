@@ -3,7 +3,7 @@
 
 ---
 
-### Exercises and Certificates of all the python, R, SQL, data-science, machine learning and other courses I have completed in DataCamp.
+### Notes, Code Exercises, Informations and Certificates of all the python, R, SQL, data-science, machine learning and other courses I have completed in DataCamp.
 
 ---
 
