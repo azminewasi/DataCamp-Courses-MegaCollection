@@ -3,7 +3,7 @@
 
 ---
 
-### Exercises and Certificates of all the python, R, SQL, data-science, machine learning and other courses I have completed in DataCamp.
+### Notes, Code Exercises, Informations and Certificates of all the python, R, SQL, data-science, machine learning and other courses I have completed in DataCamp.
 
 ---
 
@@ -104,4 +104,3 @@
 47. [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/3d55d011ee71480f17967cd243dbb09d6be35aad)
 48. [Sampling in Python](https://www.datacamp.com/statement-of-accomplishment/course/50b23c32d8fd7a49cfd21970c30729e1dc1c075d)
 49. [Exploratory Data Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/c503219d7b93157b8723305abb5b71afd8674ff5)
-50. [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/d48548c20f74b687347eb28058d39b36c9b526c8)
