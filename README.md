@@ -7,9 +7,11 @@
 
 ---
 
-**For most of the courses, exercise and solutions are added.** But, I won't be adding them from 3oth course, to focus more on the concepts and knowledge. *If I find **something new or exiting, I will add those.***
+**For most of the courses, exercise and solutions are added.** But, I won't be adding them in all courses, to focus more on the concepts and knowledge. But, in this case, I'll add chapter notes.
 
-*Some of these solutions are made to actually run in your own machine, but many of them will not run because DataCamp preloaded some data and fuctions in the exercises, and I don't have them here.*
+---
+
+***Disclaimer:** Most of these solutions are made to actually run in DataCamp's exercise environment. So, most of them will not run properly in your machine because DataCamp preloaded some data and fuctions in the exercises, and I don't have them added here.*
 
 ---
 
@@ -20,8 +22,7 @@
 - Python Programming
   - JUL 09, 2022 | Score : 174 | Percentile : Better than 99%
 - Machine Learning Fundamentals in Python
-  - APR 28, 2021 | Score : 158 |  Percentile : Better than 98%
-  - JUN 20, 2022 | Score : 135 |  Percentile : Better than 87%
+  - JUL 09, 2022 | Score : 165 |  Percentile : Better than 98%
 - Importing and Cleaning with Python
   - JUL 02, 2022 | Score : 150 |  Percentile : Better than 95%
 
@@ -29,11 +30,11 @@
 
 ## **Career Tracks Completed :**
 
-- [Python Programmer Track](https://www.datacamp.com/statement-of-accomplishment/track/53516897e8494fac5726b5a95e772ac9dca2f0cc)
+- [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/53516897e8494fac5726b5a95e772ac9dca2f0cc)
   - APR 30, 2021
   - JUN 23, 2022 - *NEW VERSION*
-
----
+- [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/0ee7bbc1ee9c8c59f7e7349ee68cf501e76d17f7)
+  - JUL 09, 2022
 
 ## **Skill Tracks Completed :**
 
@@ -104,3 +105,6 @@
 47. [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/3d55d011ee71480f17967cd243dbb09d6be35aad)
 48. [Sampling in Python](https://www.datacamp.com/statement-of-accomplishment/course/50b23c32d8fd7a49cfd21970c30729e1dc1c075d)
 49. [Exploratory Data Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/c503219d7b93157b8723305abb5b71afd8674ff5)
+50. [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/d48548c20f74b687347eb28058d39b36c9b526c8)
+51. [Hypothesis Testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/028e4918e94d70ec464eb3ebe1455dfbd7a3a2e6)
+52. [Analyzing Police Activity with pandas](https://www.datacamp.com/statement-of-accomplishment/course/4a963b3ca2bc566c0691e756a36dd623b136e6f4)
