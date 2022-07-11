@@ -110,3 +110,4 @@
 52. [Analyzing Police Activity with pandas](https://www.datacamp.com/statement-of-accomplishment/course/4a963b3ca2bc566c0691e756a36dd623b136e6f4)
 53. [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/d61e97126cf42b1a08ec3e6975f49dad686189bc)
 54. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/statement-of-accomplishment/course/251457bc2bcd789954de9711bddfb34e3c05e73d)
+55. [Introduction to NumPy](https://www.datacamp.com/statement-of-accomplishment/course/450c1a7067b6e72b8d205a77f99df8b05c315c53)
