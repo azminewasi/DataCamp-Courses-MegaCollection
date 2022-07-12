@@ -30,6 +30,8 @@
 
 ## **Career Tracks Completed :**
 
+- [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/7cc385b02d4d4229b9b1c4e853f942999836205a)
+  - JUL 09, 2022
 - [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/53516897e8494fac5726b5a95e772ac9dca2f0cc)
   - APR 30, 2021
   - JUN 23, 2022 - *NEW VERSION*
@@ -111,3 +113,4 @@
 53. [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/d61e97126cf42b1a08ec3e6975f49dad686189bc)
 54. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/statement-of-accomplishment/course/251457bc2bcd789954de9711bddfb34e3c05e73d)
 55. [Introduction to NumPy](https://www.datacamp.com/statement-of-accomplishment/course/450c1a7067b6e72b8d205a77f99df8b05c315c53)
+56. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/statement-of-accomplishment/course/373e8f68a98ad92ff2d074b404119568fae36513)
