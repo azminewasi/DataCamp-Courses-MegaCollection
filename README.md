@@ -27,6 +27,8 @@
   - JUL 02, 2022 | Score : 150 |  Percentile : Better than 95%
 - Exploratory Analysis Theory
   - JUL 20, 2022 | Score : 179 |  Percentile : Better than 99%
+- Statistical Experimentation Theory
+  - JUL 20, 2022 | Score : 136 |  Percentile : Better than 88%
 
 ---
 
