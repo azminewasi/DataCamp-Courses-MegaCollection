@@ -25,6 +25,8 @@
   - JUL 09, 2022 | Score : 165 |  Percentile : Better than 98%
 - Importing and Cleaning with Python
   - JUL 02, 2022 | Score : 150 |  Percentile : Better than 95%
+- Exploratory Analysis Theory
+  - JUL 20, 2022 | Score : 179 |  Percentile : Better than 99%
 
 ---
 
