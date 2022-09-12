@@ -120,3 +120,4 @@
 56. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/statement-of-accomplishment/course/373e8f68a98ad92ff2d074b404119568fae36513)
 57. [Introduction to Power BI](https://www.datacamp.com/statement-of-accomplishment/course/99ba60bb91c9beda0a548b39dd11c754707d10a6?raw=1)
 58. [Introduction to Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/b5ef095e00e8e59dbacf5f398b3a4e6db5f66ac1)
+59. [Advanced Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/d10c7c97517409cc36aafd5ef5389ec5fb53e5ce)
