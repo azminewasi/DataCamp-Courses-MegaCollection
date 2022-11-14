@@ -42,6 +42,7 @@
 - [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/0ee7bbc1ee9c8c59f7e7349ee68cf501e76d17f7)
   - JUL 09, 2022
 
+---
 ## **Skill Tracks Completed :**
 
 - [Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/97ed5b101facac09cf9981661c750941c3f8c335)
@@ -58,7 +59,11 @@
   - JUL 02, 2022
 - [Time Series with Python](https://www.datacamp.com/statement-of-accomplishment/track/ec25cb851f98102f064f29c1cce20a5e1588a3d2)
   - JUL 04, 2022
-
+- [Data Manipulation with Python](https://www.datacamp.com/statement-of-accomplishment/track/9b76b86801bd30bae4aaa633da29cf84f80b1b1a)
+  - NOV 14, 2022
+- [Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/track/c48350d074344bcacf6a3691e909249416abc339)
+  - NOV 14, 2022
+  
 ---
 ## **Courses Completed :**
 
@@ -121,3 +126,5 @@
 57. [Introduction to Power BI](https://www.datacamp.com/statement-of-accomplishment/course/99ba60bb91c9beda0a548b39dd11c754707d10a6?raw=1)
 58. [Introduction to Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/b5ef095e00e8e59dbacf5f398b3a4e6db5f66ac1)
 59. [Advanced Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/d10c7c97517409cc36aafd5ef5389ec5fb53e5ce)
+60. [Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/d12608e22b5d7980aa9659bf8680808b6f8b531c)
+61. [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/c89036012f769bbc7b33b67c369ad0520ea21f0e)
