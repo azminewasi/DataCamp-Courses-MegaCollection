@@ -46,23 +46,16 @@
 ## **Skill Tracks Completed :**
 
 - [Python Fundamentals Track](https://www.datacamp.com/statement-of-accomplishment/track/97ed5b101facac09cf9981661c750941c3f8c335)
-  - APR 22, 2021
 - [Python Programming Track](https://www.datacamp.com/statement-of-accomplishment/track/7e028f33e21ebda316e56a9128c0976c772da6c7)
-  - APR 27, 2021
 - [Machine Learning Fundamentals with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/5b7ae1bb6614f496b96a6f238cbd3fb46d6b9ccc)
-  - JUN 20, 2022
 - [Data Literacy Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/2b705f666a8aab86b728cb9ac83a9e77c7e89a51)
-  - JUN 23, 2022
 - [Python Toolbox](https://www.datacamp.com/statement-of-accomplishment/track/d6d717306f276fd1718eb40a60e786b541c591ab)
-  - JUN 26, 2022
 - [Importing & Cleaning Data with Python](https://www.datacamp.com/statement-of-accomplishment/track/78e15544abc38caa0bd1fccfe945605985df2a22)
-  - JUL 02, 2022
 - [Time Series with Python](https://www.datacamp.com/statement-of-accomplishment/track/ec25cb851f98102f064f29c1cce20a5e1588a3d2)
-  - JUL 04, 2022
 - [Data Manipulation with Python](https://www.datacamp.com/statement-of-accomplishment/track/9b76b86801bd30bae4aaa633da29cf84f80b1b1a)
-  - NOV 14, 2022
 - [Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/track/c48350d074344bcacf6a3691e909249416abc339)
-  - NOV 14, 2022
+- [Statistics Fundamentals with Python](https://www.datacamp.com/statement-of-accomplishment/track/8c57727369694a4ca261780a5ef96d46096b08cd)
+
   
 ---
 ## **Courses Completed :**
@@ -128,3 +121,5 @@
 59. [Advanced Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/d10c7c97517409cc36aafd5ef5389ec5fb53e5ce)
 60. [Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/d12608e22b5d7980aa9659bf8680808b6f8b531c)
 61. [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/c89036012f769bbc7b33b67c369ad0520ea21f0e)
+62. [Intermediate Regression with statsmodels in Python](https://www.datacamp.com/statement-of-accomplishment/course/9446b763dd4531383ad1f8e43b59b86f8dc68f38)
+63. [Image Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/31ccda03720b5e6f31890480890730f273634dd0)
