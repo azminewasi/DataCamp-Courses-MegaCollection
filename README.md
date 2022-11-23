@@ -123,3 +123,4 @@
 61. [Introduction to Databases in Python](https://www.datacamp.com/statement-of-accomplishment/course/c89036012f769bbc7b33b67c369ad0520ea21f0e)
 62. [Intermediate Regression with statsmodels in Python](https://www.datacamp.com/statement-of-accomplishment/course/9446b763dd4531383ad1f8e43b59b86f8dc68f38)
 63. [Image Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/31ccda03720b5e6f31890480890730f273634dd0)
+64. [Image Processing with Keras in Python](https://www.datacamp.com/statement-of-accomplishment/course/487a4830d2bbeb6dbc9f0d6c48150cc35d1f8c09)
