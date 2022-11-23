@@ -124,3 +124,4 @@
 62. [Intermediate Regression with statsmodels in Python](https://www.datacamp.com/statement-of-accomplishment/course/9446b763dd4531383ad1f8e43b59b86f8dc68f38)
 63. [Image Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/31ccda03720b5e6f31890480890730f273634dd0)
 64. [Image Processing with Keras in Python](https://www.datacamp.com/statement-of-accomplishment/course/487a4830d2bbeb6dbc9f0d6c48150cc35d1f8c09)
+65. [Winning a Kaggle Competition in Python](https://www.datacamp.com/statement-of-accomplishment/course/996b323819ef8f753a4be4f8c47cbe375576952f)
