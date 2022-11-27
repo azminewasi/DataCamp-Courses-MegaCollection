@@ -125,3 +125,4 @@
 63. [Image Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/31ccda03720b5e6f31890480890730f273634dd0)
 64. [Image Processing with Keras in Python](https://www.datacamp.com/statement-of-accomplishment/course/487a4830d2bbeb6dbc9f0d6c48150cc35d1f8c09)
 65. [Winning a Kaggle Competition in Python](https://www.datacamp.com/statement-of-accomplishment/course/996b323819ef8f753a4be4f8c47cbe375576952f)
+66. [Introduction to PySpark](https://www.datacamp.com/statement-of-accomplishment/course/fa85e4845bc5a8222e4dd460302aa32f8294df8c)
