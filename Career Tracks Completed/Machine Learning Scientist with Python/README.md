@@ -3,6 +3,14 @@
 # Machine Learning Scientist with Python
 
 ---
+## [**Certificate**](https://www.datacamp.com/statement-of-accomplishment/course/d878605dc2c534f11caa8d2e0fee04653a07ea4c)
+
+![](certificate.png)
+
+Completed on: **NOV 27, 2022**
+
+
+---
 
 Master the essential skills to land a job as a machine learning scientist! You'll augment your Python programming skill set with the toolbox to perform supervised, unsupervised, and deep learning. You'll learn how to process data for features, train your models, assess performance, and tune parameters for better performance. In the process, you'll get an introduction to natural language processing, image processing, and popular libraries such as Spark and Keras.
 
