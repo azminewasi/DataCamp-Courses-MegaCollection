@@ -129,3 +129,5 @@
 65. [Winning a Kaggle Competition in Python](https://www.datacamp.com/statement-of-accomplishment/course/996b323819ef8f753a4be4f8c47cbe375576952f) | [Certificate]()
 66. [Introduction to PySpark](https://www.datacamp.com/statement-of-accomplishment/course/fa85e4845bc5a8222e4dd460302aa32f8294df8c) | [Certificate]()
 67. [Machine Learning with PySpark](https://www.datacamp.com/statement-of-accomplishment/course/d878605dc2c534f11caa8d2e0fee04653a07ea4c) | [Certificate]()
+68. [Sentiment Analysis in Python](#) | [Certificate](#)
+69. [Improving Your Data Visualizations in Python](#) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/e204282efbb42dc5591d22dfa7e3d3d7aae8a567)
