@@ -57,6 +57,7 @@
 - [Data Manipulation with Python](https://github.com/azminewasi/DataCamp-Courses--Notes-Exercises-Projects/tree/main/Skill%20Tracks%20%20Completed/Data%20Manipulation%20with%20Python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/9b76b86801bd30bae4aaa633da29cf84f80b1b1a)
 - [Deep Learning in Python](https://github.com/azminewasi/DataCamp-Courses--Notes-Exercises-Projects/tree/main/Skill%20Tracks%20%20Completed/Deep%20Learning%20in%20Python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/c48350d074344bcacf6a3691e909249416abc339)
 - [Statistics Fundamentals with Python](https://github.com/azminewasi/DataCamp-Courses--Notes-Exercises-Projects/tree/main/Skill%20Tracks%20%20Completed/Statistics%20Fundamentals%20with%20Python) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/8c57727369694a4ca261780a5ef96d46096b08cd)
+- [Data Visualization with Python](#) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/ba80259054fadf29f05bf613ede4b39d1f9cb9f1)
 
   
 ---
@@ -131,3 +132,4 @@
 67. [Machine Learning with PySpark](https://www.datacamp.com/statement-of-accomplishment/course/d878605dc2c534f11caa8d2e0fee04653a07ea4c) | [Certificate]()
 68. [Sentiment Analysis in Python](#) | [Certificate](#)
 69. [Improving Your Data Visualizations in Python](#) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/e204282efbb42dc5591d22dfa7e3d3d7aae8a567)
+70. [Visualizing Geospatial Data in Python](#) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/f8963563e310b66955ec3caadcfd2def0cb1ecb5)
