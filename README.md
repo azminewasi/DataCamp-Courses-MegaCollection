@@ -133,3 +133,14 @@
 68. [Sentiment Analysis in Python](#) | [Certificate](#)
 69. [Improving Your Data Visualizations in Python](#) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/e204282efbb42dc5591d22dfa7e3d3d7aae8a567)
 70. [Visualizing Geospatial Data in Python](#) | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/f8963563e310b66955ec3caadcfd2def0cb1ecb5)
+
+
+---
+## ✨ **Credits**
+**Azmine Toushik Wasi**
+
+ [![website](https://img.shields.io/badge/-Website-blue?style=flat-square)](https://azminewasi.github.io) 
+ [![linkedin](https://img.shields.io/badge/LinkedIn-%2320beff?style=flat-square&logo=linkedin&color=red)](https://www.linkedin.com/in/azmine-toushik-wasi/) 
+ [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=gold)](https://www.kaggle.com/azminetoushikwasi) 
+ [![google-scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?style=flat-square&logo=google-scholar&color=grey)](https://scholar.google.com/citations?user=X3gRvogAAAAJ&hl=en) 
+ [![facebook](https://img.shields.io/badge/Facebook-%2320beff?style=flat-square&logo=facebook&color=lightblue)](https://www.facebook.com/cholche.gari.zatrabari/)
